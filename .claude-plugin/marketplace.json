@@ -1,0 +1,39 @@
+{
+  "name": "the-construct",
+  "description": "An open-source framework for uploading specialized skills into agentic AI systems like Claude Code. Just as Neo learned martial arts instantly through the Construct training program, this framework enables AI agents to acquire expertise through structured skill modules.",
+  "version": "0.0.1",
+  "owner": {
+    "name": "Asif Momin",
+    "email": "asifdmomin@gmail.com",
+    "url": "https://github.com/asifmomin/the-construct"
+  },
+  "homepage": "https://github.com/asifmomin/the-construct",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asifmomin/the-construct.git"
+  },
+  "pluginRoot": "./skills",
+  "plugins": [
+    {
+      "name": "writing-elements",
+      "source": "./skills/writing-elements",
+      "description": "Master clear, concise writing with timeless principles from The Elements of Style by Strunk & White",
+      "version": "0.0.1",
+      "author": {
+        "name": "Asif Momin",
+        "email": "asifdmomin@gmail.com"
+      },
+      "keywords": [
+        "writing",
+        "style",
+        "composition",
+        "editing",
+        "clarity",
+        "conciseness",
+        "grammar",
+        "strunk-white"
+      ],
+      "license": "MIT"
+    }
+  ]
+}

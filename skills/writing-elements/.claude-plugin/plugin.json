@@ -1,0 +1,21 @@
+{
+  "name": "writing-elements",
+  "version": "0.0.1",
+  "description": "Master clear, concise writing with timeless principles from The Elements of Style by Strunk & White",
+  "author": {
+    "name": "Asif Momin",
+    "email": "asifdmomin@gmail.com",
+    "url": "https://github.com/asifmomin/the-construct"
+  },
+  "keywords": [
+    "writing",
+    "style",
+    "composition",
+    "editing",
+    "clarity",
+    "conciseness",
+    "grammar",
+    "strunk-white"
+  ],
+  "license": "MIT"
+}
